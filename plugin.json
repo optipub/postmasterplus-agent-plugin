@@ -1,0 +1,29 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "postmasterplus",
+  "version": "1.0.0",
+  "description": "Email deliverability copilot that unifies Gmail Postmaster Tools, Outlook SNDS, Validity, universal feedback loops, and DNS into one health view — across all your teams.",
+  "author": {
+    "name": "OptiPub",
+    "url": "https://postmasterplus.app"
+  },
+  "homepage": "https://postmasterplus.app",
+  "repository": "https://github.com/optipub/postmasterplus-agent-plugin",
+  "license": "MIT",
+  "keywords": [
+    "email",
+    "deliverability",
+    "postmaster",
+    "gmail-postmaster-tools",
+    "outlook-snds",
+    "validity",
+    "dns",
+    "spf",
+    "dkim",
+    "dmarc",
+    "blocklist",
+    "sender-reputation",
+    "inbox-placement",
+    "mcp"
+  ]
+}
